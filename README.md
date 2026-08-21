@@ -52,31 +52,40 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
 
-### Data & Analytics
-`Python` • `SQL` • `Pandas` • `NumPy` • `EDA` • `Streamlit` • `Power BI` • `Data Visualization`
+`Python` • `Java` • `C++` • `JavaScript` • `HTML` • `CSS` • `SQL`
 
 ### AI / Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-`Scikit-learn` • `Keras` • `Wav2Vec 2.0` • `CrewAI` • `Groq` • `Machine Learning` • `Deep Learning` • `Computer Vision`
+`Machine Learning` • `Deep Learning` • `Scikit-learn` • `TensorFlow` • `Keras`  
+`Wav2Vec 2.0` • `Computer Vision` • `OpenCV` • `CrewAI` • `Groq`
 
-### Web Development
+### Data & Analytics
+
+`Pandas` • `NumPy` • `SQL` • `EDA` • `Data Analysis`  
+`Streamlit` • `Power BI` • `Data Visualization`
+
+### Web & Full-Stack Development
 <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 
-`REST APIs` • `Vite` • `Tailwind CSS`
+`React.js` • `Node.js` • `Express.js` • `REST APIs`  
+`JavaScript` • `Vite` • `Tailwind CSS` • `Axios`
 
 ### Android Development
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
 
-`Java` • `Firebase Authentication` • `Firebase Realtime Database`
+`Android Studio` • `Java` • `Firebase`  
+`Firebase Authentication` • `Firebase Realtime Database`
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 
-`SQL` • `Neo4j` • `ChromaDB`
+`PostgreSQL` • `MySQL` • `SQL` • `Neo4j` • `ChromaDB`
 
-### Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,docker,linux" />
+
+`Git` • `GitHub` • `Figma` • `Postman` • `VS Code`
 
 </div>
 
