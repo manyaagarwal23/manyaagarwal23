@@ -45,50 +45,40 @@
 </p>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
 
-### AI / Machine Learning
+### Data & Analytics
+`Python` • `SQL` • `Pandas` • `NumPy` • `EDA` • `Streamlit` • `Power BI` • `Data Visualization`
 
+### AI / Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-`Scikit-learn` • `Keras` • `Pandas` • `NumPy` • `Wav2Vec 2.0` • `LSTM` • `CNN` • `MobileNetV2`
+`Scikit-learn` • `Keras` • `Wav2Vec 2.0` • `CrewAI` • `Groq` • `Machine Learning` • `Deep Learning` • `Computer Vision`
 
-### Web & Full-Stack Development
+### Web Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
-
-`REST APIs` • `Axios` • `Vite` • `Tailwind CSS`
+`REST APIs` • `Vite` • `Tailwind CSS`
 
 ### Android Development
-
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
 
 `Java` • `Firebase Authentication` • `Firebase Realtime Database`
 
 ### Databases
-
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
-`SQL` • `Neo4j` • `ChromaDB` • `Firebase`
-
-### Data & Analytics
-
-`Python` • `Pandas` • `NumPy` • `SQL` • `EDA` • `Streamlit` • `Power BI` • `Data Visualization`
+`SQL` • `Neo4j` • `ChromaDB`
 
 ### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
