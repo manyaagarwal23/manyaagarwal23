@@ -22,7 +22,7 @@
 
 🏆 Smart India Hackathon 2024 Finalist — developed a working prototype under a 24-hour development challenge
 
-🎯 Currently focused on strengthening my technical, analytical, and problem-solving skills through real-world projects
+🎯 Currently focused on strengthening my analytical  through real-world projects
 
 ---
 
