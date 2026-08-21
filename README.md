@@ -52,7 +52,7 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
 
-`Python` • `Java` • `C++` • `JavaScript` • `HTML` • `CSS` • `SQL`
+`Python` • `C++` • `HTML` • `CSS` • `SQL`
 
 ### AI / Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
