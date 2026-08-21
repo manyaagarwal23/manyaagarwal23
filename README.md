@@ -2,7 +2,7 @@
 
 # Hi there, I'm Manya Agarwal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Android+Developer;AI%2FML+Enthusiast;Full-Stack+Developer;IoT+%26+System+Design+Explorer;Building+Real-World+Tech+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;AI%2FML+Enthusiast;Data+%26+Analytics+Explorer;Full-Stack+Developer;Building+Real-World+Tech+Projects;Exploring+AI+%26+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -10,12 +10,19 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science student at BML Munjal University (2023–2027)  
-📱 Android developer focused on scalable and user-friendly applications  
-🤖 Interested in AI/ML, system design, IoT systems, and real-world automation  
-💻 Building projects using Java, Firebase, Python, React.js, and Machine Learning    
-🏆 Smart India Hackathon 2024 Finalist — Built a working prototype within 24 hours  
-🎯 Focused on creating impactful products and becoming industry-ready through practical projects
+🎓 B.Tech Computer Science & Engineering student at BML Munjal University (2023–2027)
+
+🤖 Interested in Artificial Intelligence, Machine Learning, Data Analytics, and intelligent software systems
+
+💻 Experienced in building projects using Python, SQL, React.js, Node.js, Firebase, and Machine Learning
+
+🧠 Worked on AI-based code intelligence, multimodal communication assessment, computer vision, speech processing, and full-stack applications
+
+📊 Interested in transforming real-world datasets into meaningful insights using SQL, Python, EDA, dashboards, and data visualization
+
+🏆 Smart India Hackathon 2024 Finalist — developed a working prototype under a 24-hour development challenge
+
+🎯 Currently focused on strengthening my technical, analytical, and problem-solving skills through real-world projects
 
 ---
 
@@ -44,19 +51,40 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,c" />
 
-### Android & Mobile Development
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
 
-### Web Development
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs" />
+### AI / Machine Learning
 
-### AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,postman,vscode" />
+`Scikit-learn` • `Keras` • `Pandas` • `NumPy` • `Wav2Vec 2.0` • `LSTM` • `CNN` • `MobileNetV2`
+
+### Web & Full-Stack Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
+
+`REST APIs` • `Axios` • `Vite` • `Tailwind CSS`
+
+### Android Development
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+
+`Java` • `Firebase Authentication` • `Firebase Realtime Database`
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+`SQL` • `Neo4j` • `ChromaDB` • `Firebase`
+
+### Data & Analytics
+
+`Python` • `Pandas` • `NumPy` • `SQL` • `EDA` • `Streamlit` • `Power BI` • `Data Visualization`
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,docker,linux" />
 
 </div>
 
@@ -64,13 +92,178 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 💖 **UniMingle** | Campus-based Android social networking app with Firebase authentication, real-time chat, and event management |
-| 📷 **Student Attendance System** | QR + Facial Recognition attendance system using Firebase, ML Kit, and WiFi/location validation |
-| 🌿 **Smart Disinfection System** | ESP32-based automated disinfection and monitoring system for silkworm rearing sheds |
-| 📊 **Network Anomaly Detection** | ML-based network traffic analysis project using UNSW-NB15 dataset during BEL internship |
-| 🏠 **Estate Management System** | Recommendation-based property management website using content-based filtering |
+### 🧠 LogicLens — AI Code Intelligence System
+
+An AI-powered repository intelligence system designed to help developers understand complex software codebases.
+
+**Key Features:**
+- Parses source code using Tree-sitter and Abstract Syntax Trees
+- Builds code relationships and dependencies using Neo4j
+- Uses ChromaDB for semantic/vector search
+- Generates embeddings for intelligent code retrieval
+- Uses LLM-based analysis to answer repository-level questions
+- Helps developers understand functions, dependencies, and code relationships
+
+**Tech:** Python • Tree-sitter • AST • Neo4j • ChromaDB • Embeddings • LLMs • Groq • CrewAI
+
+---
+
+### 🎤 PersonaPath — Multimodal Communication Assessment System
+
+An AI-based system designed to analyze communication and interview performance using speech, audio, and visual information.
+
+**Key Features:**
+- Speech-to-text processing using Wav2Vec 2.0
+- Audio feature extraction using MFCC
+- Sequence modeling using LSTM
+- Facial/emotion analysis using CNN and MobileNetV2
+- Video and image processing using OpenCV
+- Combines multiple modalities to generate communication insights
+- Provides assessment results through a dashboard
+
+**Tech:** Python • TensorFlow • Keras • Wav2Vec 2.0 • OpenCV • CNN • MobileNetV2 • LSTM • MFCC • Librosa
+
+---
+
+### 📊 Student Placement Management Platform
+
+A full-stack placement management system connecting students, companies, jobs, applications, interviews, offers, and skills.
+
+**Key Features:**
+- Student and company management
+- Job posting and application tracking
+- Interview and offer management
+- Skill-based student/job matching
+- SQL-based analytics and reporting
+- Placement pipeline tracking
+- Interactive dashboards and KPIs
+
+**Tech:** React • JavaScript • Node.js • Express.js • PostgreSQL • SQL • REST APIs • Axios • Recharts • Vite • Tailwind CSS
+
+---
+
+### 📱 UniMingle — Campus Social Networking App
+
+A campus-focused Android social networking application designed to connect students and manage campus activities.
+
+**Key Features:**
+- Firebase authentication
+- Student profiles
+- Real-time communication
+- Campus events
+- Social interaction features
+
+**Tech:** Java • Android Studio • Firebase
+
+---
+
+### 🌿 Smart Disinfection System
+
+An IoT-based automated disinfection and environmental monitoring system designed for silkworm rearing sheds.
+
+**Key Features:**
+- Automated UV-C disinfection
+- Ultrasonic mist generation
+- Environmental monitoring
+- Sensor-based automation
+- ESP32 microcontroller integration
+
+**Tech:** ESP32 • IoT • Sensors • UV-C • Ultrasonic Mist • Embedded Systems
+
+---
+
+### 🛡️ Network Anomaly Detection — BEL Internship
+
+Machine-learning based network traffic analysis and intrusion/anomaly detection project developed during my internship at Bharat Electronics Limited.
+
+**Key Features:**
+- Network traffic analysis
+- Exploratory Data Analysis
+- Feature analysis
+- Machine-learning based anomaly detection
+- Model comparison and evaluation
+
+**Models Explored:** Random Forest • Decision Tree • Logistic Regression
+
+**Dataset:** UNSW-NB15
+
+---
+
+## 📊 Data Analytics Projects
+
+### 🎵 K-Pop Playlist Analysis
+
+Data analysis project investigating chart performance, comeback momentum, chart re-entry, and fandom intensity using a large South Korean music dataset.
+
+**Tech:** Python • Pandas • NumPy • EDA • Streamlit • Data Visualization
+
+---
+
+### 🏥 Care Transition & Placement Outcome Analytics
+
+Data-driven analysis of the care transition pipeline to identify operational bottlenecks, discharge patterns, delays, and placement outcomes.
+
+**Key Work:**
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- KPI development
+- Trend analysis
+- Interactive dashboard development
+- Identification of operational bottlenecks
+
+**Tech:** Python • Pandas • EDA • Streamlit • Data Visualization
+
+---
+
+## 💼 Experience
+
+### Intern — Bharat Electronics Limited (BEL)
+
+📍 India
+
+- Worked on network intrusion and anomaly detection using machine-learning techniques
+- Analyzed the UNSW-NB15 network traffic dataset
+- Performed exploratory data analysis and feature analysis
+- Explored Random Forest, Decision Tree, and Logistic Regression models
+- Evaluated model performance for network anomaly detection
+
+---
+
+### Data Analyst Intern  — Unified Mentor
+
+📊 Data Analytics
+
+- Worked on real-world data analysis projects
+- Performed data cleaning and exploratory analysis
+- Used Python, Pandas, SQL, and visualization techniques
+- Developed interactive dashboards for analytical insights
+- Worked on projects involving music analytics and operational/placement data
+
+---
+
+## 🧠 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Data Analytics
+- SQL & Data Visualization
+- Computer Vision
+- Speech & Audio Processing
+- Full-Stack Development
+- AI-powered Applications
+- Intelligent Software Systems
+- UI/UX & Product Design
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Data Structures & Algorithms
+- Data Analytics
+- Machine Learning
+- React & Full-Stack Development
+- AI-powered application development
+- System Design fundamentals
 
 ---
 
@@ -116,28 +309,11 @@
 
 ---
 
-## 💡 Currently Exploring
-
-- Advanced Android Development  
-- AI + Real-World Product Integration  
-- System Design & Scalable Applications  
-- IoT Automation Systems  
-- Full-Stack Development  
-- DSA and Interview Preparation  
-
----
-
-## ✨ Experience
-
-💼 Machine Learning Intern at Bharat Electronics Limited (BEL)  
-📊 Worked on network anomaly detection using ML models and traffic analysis datasets  
-⚡ Explored Random Forest, Decision Trees, Logistic Regression, and EDA techniques
-
----
-
 <div align="center">
 
-### Thanks for visiting my profile 🚀
+### 🚀 Building. Learning. Experimenting.
+
+Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=manyaagarwal23&label=Profile%20Views&color=0e75b6&style=flat" />
 
