@@ -275,7 +275,7 @@ IoT-based environmental monitoring and automated disinfection prototype.
 
 # 💼 Experience
 
-### Bharat Electronics Limited — AI/ML Intern
+### Bharat Electronics Limited — Intern
 
 Worked on machine-learning based network traffic analysis and anomaly detection using the UNSW-NB15 dataset.
 
