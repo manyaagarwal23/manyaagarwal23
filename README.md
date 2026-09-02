@@ -1,132 +1,110 @@
 <div align="center">
 
-# Hi there, I'm Manya Agarwal 👋
+# Hi, I'm Manya Agarwal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;AI%2FML+Enthusiast;UI%2FUX+%26+Design+Explorer;Data+%26+Analytics+Explorer;Full-Stack+Developer;Building+Real-World+Tech+Projects" alt="Typing SVG" />
+### B.Tech CSE Student • AI/ML • Generative AI • Data Analytics • Full-Stack • UI/UX
+
+Building practical AI-powered applications, intelligent systems, and data-driven products.
+
+<p>
+  <a href="https://github.com/manyaagarwal23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:manya.agarwal.23cse@bmu.edu.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering student at BML Munjal University (2023–2027)
+🎓 **B.Tech Computer Science & Engineering** student at **BML Munjal University (2023–2027)**
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, and intelligent software systems
+🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI, LLM applications, RAG, and intelligent software systems**
 
-🎨 Interested in UI/UX design, visual communication, product interfaces, dashboards, and user-centered experiences
+💻 Building full-stack applications using **Python, React, JavaScript, Node.js, FastAPI, REST APIs, and databases**
 
-💻 Experienced in building applications using Python, SQL, React.js, Node.js, Firebase, and Machine Learning
+📊 Interested in **Data Analytics, SQL, EDA, dashboards, visualization, and extracting insights from real-world datasets**
 
-🧠 Worked on AI-powered code intelligence, multimodal communication assessment, computer vision, speech processing, data analytics, and full-stack applications
+🎨 Exploring **UI/UX, product design, visual hierarchy, dashboards, and user-centered interfaces**
 
-📊 Interested in transforming real-world datasets into meaningful insights using Python, SQL, EDA, dashboards, and data visualization
+🧠 Hands-on experience with **Computer Vision, Speech Processing, Multimodal AI, Semantic Search, Vector Databases, and AI-powered applications**
 
-🏆 Smart India Hackathon 2024 Finalist — developed an interactive game-based application for water conservation
+🏆 **Smart India Hackathon 2024 Finalist**
 
-🌱 Also exploring IoT, embedded systems, and cloud-connected intelligent applications
+💼 Experience with **Bharat Electronics Limited (BEL)** and **Unified Mentor**
 
-🎯 Currently focused on building practical projects and strengthening my technical, analytical, and design skills
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/manyaagarwal23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:manya.agarwal.23cse@bmu.edu.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-### 🎨 Design & UI/UX
-
-`Figma` • `Canva` • `UI/UX Design` • `Wireframing` • `Prototyping`  
-`Visual Design` • `Typography` • `Visual Hierarchy` • `Data Visualization`
-
-### 🤖 AI / Machine Learning
-
-`Python` • `Machine Learning` • `Deep Learning` • `Scikit-learn`  
-`TensorFlow` • `Keras` • `OpenCV` • `Hugging Face`  
-`Computer Vision` • `Speech Processing` • `Wav2Vec 2.0`  
-`LLMs` • `RAG` • `Embeddings` • `CrewAI` • `Groq`
-
-### 📊 Data & Analytics
-
-`Pandas` • `NumPy` • `SQL` • `EDA` • `Data Analysis`  
-`Power BI` • `Tableau` • `Streamlit` • `Data Visualization`
-
-### 💻 Web & Full-Stack Development
-
-`React.js` • `JavaScript` • `Node.js` • `Express.js`  
-`HTML` • `CSS` • `REST APIs` • `Tailwind CSS`  
-`Vite` • `Axios`
-
-### 📱 Android Development
-
-`Java` • `Android Studio` • `Firebase`  
-`Firebase Authentication` • `Firebase Realtime Database`
-
-### 🗄️ Databases
-
-`PostgreSQL` • `MySQL` • `Neo4j` • `ChromaDB`
-
-### 🌱 IoT & Embedded Systems
-
-`ESP32` • `IoT` • `Sensors` • `Wokwi` • `Thinger.io`  
-`Embedded Systems` • `Environmental Monitoring` • `Automation`
-
-### 🔧 Tools
-
-`Git` • `GitHub` • `Figma` • `Postman` • `VS Code` • `Docker` • `Linux`
+🌱 Currently focused on building practical projects that combine **AI + software engineering + data + product thinking**
 
 ---
 
 # 🚀 Featured Projects
 
+## 🎬 WatchMate — AI Movie & TV Discovery Platform
+
+> An intelligent movie and TV discovery platform combining real-world media data with modern AI systems.
+
+**What it does**
+
+- 🎥 TMDB-powered movie & TV discovery
+- 🔎 Keyword and semantic search
+- 🎭 Genre and mood-based discovery
+- 🤖 **Watchie** — conversational AI movie companion
+- 🧠 Retrieval-Augmented Generation (**RAG**)
+- 📐 Persistent vector search using **pgvector**
+- 🧩 **CrewAI** multi-agent orchestration for complex recommendations
+- 👁️ AI-powered image-based movie identification
+- 📺 India-specific "Where to Watch" availability
+- 🔖 Account-based **Watch Later** lists
+- 🔐 Optional authentication — browsing remains available without an account
+- 🐳 Dockerized frontend, backend, and PostgreSQL/pgvector stack
+
+**Architecture**
+
+`React + Vite` → `FastAPI` → `PostgreSQL / pgvector` → `TMDB + Gemini`  
+`                                     ↓`  
+`                                RAG + CrewAI`
+
+**Tech:** React • TypeScript • Vite • FastAPI • Python • PostgreSQL • pgvector • Gemini • CrewAI • TMDB • Docker
+
+🔗 **[View WatchMate →](https://github.com/manyaagarwal23/WatchMate)**
+
+---
+
 ## 🧠 LogicLens — AI Code Intelligence System
 
 An AI-powered repository intelligence system designed to help developers understand complex software codebases.
 
-### Key Features
+### Highlights
 
-- Parses source code using Tree-sitter and Abstract Syntax Trees
-- Builds code relationships and dependencies using Neo4j
-- Uses ChromaDB for semantic/vector search
-- Generates embeddings for intelligent code retrieval
-- Uses LLM-based analysis to answer repository-level questions
-- Supports dependency visualization, impact analysis, Git hotspot detection, and vulnerability identification
+- Parses source code using **Tree-sitter and ASTs**
+- Builds code relationships and dependencies using **Neo4j**
+- Performs semantic/vector retrieval using **ChromaDB**
+- Generates embeddings for intelligent code search
+- Uses LLM-based reasoning for repository-level questions
+- Supports dependency visualization and impact analysis
+- Includes Git hotspot and vulnerability analysis
 
 **Tech:** Python • Tree-sitter • AST • Neo4j • ChromaDB • Embeddings • LLMs • Groq • CrewAI
 
 ---
 
-## 🎤 PersonaPath — Multimodal Communication Assessment System
+## 🎤 PersonaPath — Multimodal Communication Assessment
 
-An AI-based system designed to analyze communication and interview performance using speech, audio, and visual information.
+An AI-based communication assessment system combining speech, audio, video, and visual information.
 
-### Key Features
+### Highlights
 
-- Speech-to-text processing using Wav2Vec 2.0
-- Audio feature extraction using MFCC
-- Sequence modeling using LSTM
-- Facial and emotion analysis using CNN and MobileNetV2
-- Video and image processing using OpenCV
-- Combines multiple modalities to generate communication insights
-- Provides assessment results through a dashboard
+- Speech-to-text using **Wav2Vec 2.0**
+- Audio feature extraction using **MFCC**
+- Sequence modeling using **LSTM**
+- Facial and emotion analysis using **CNN / MobileNetV2**
+- Video processing using **OpenCV**
+- Multimodal analysis for communication insights
+- Dashboard-based assessment results
 
 **Tech:** Python • TensorFlow • Keras • Wav2Vec 2.0 • OpenCV • CNN • MobileNetV2 • LSTM • MFCC • Librosa
 
@@ -134,267 +112,211 @@ An AI-based system designed to analyze communication and interview performance u
 
 ## 📊 Student Placement Management Platform
 
-A full-stack placement management system connecting students, companies, jobs, applications, interviews, offers, and skills.
+A full-stack placement intelligence platform connecting students, companies, jobs, applications, interviews, offers, and skills.
 
-### Key Features
+### Highlights
 
 - Student and company management
 - Job posting and application tracking
 - Interview and offer management
-- Skill-based student/job matching
-- SQL-based analytics and reporting
+- Skill-based matching
 - Placement pipeline tracking
+- SQL-based analytics
 - Interactive dashboards and KPIs
 
-**Tech:** React • JavaScript • Node.js • Express.js • PostgreSQL • SQL • REST APIs • Axios • Recharts • Vite • Tailwind CSS
+**Tech:** React • JavaScript • Node.js • Express.js • PostgreSQL • SQL • REST APIs • Recharts • Vite • Tailwind CSS
 
 ---
 
-## 🏡 Estate Management Platform
+# 🛠️ Technical Skills
 
-A high-fidelity UI/UX prototype designed to simplify property and estate management through structured interfaces and intuitive user flows.
+### 🤖 AI / Machine Learning
 
-### Key Features
+`Python` `Machine Learning` `Deep Learning` `Scikit-learn`  
+`TensorFlow` `Keras` `OpenCV` `Hugging Face`  
+`Computer Vision` `Speech Processing` `Wav2Vec 2.0`  
+`LLMs` `RAG` `Embeddings` `Vector Search` `CrewAI`
 
-- High-fidelity interface design
-- Scrollable multi-screen prototype
-- Structured property information
-- Intuitive navigation and interaction flows
-- Consistent visual hierarchy and design system
+### 🧠 Generative AI
 
-**Tools:** Figma • Human-Computer Interaction
+`LLM Applications` `Prompt Engineering` `RAG`  
+`Semantic Search` `Embeddings` `pgvector`  
+`AI Agents` `CrewAI` `Multimodal AI`
 
----
+### 💻 Full-Stack Development
 
-# 🎨 UI/UX & Design Projects
+`React.js` `TypeScript` `JavaScript` `Node.js` `Express.js`  
+`FastAPI` `Python` `HTML` `CSS` `Tailwind CSS`  
+`REST APIs` `Axios` `Vite`
 
-## 🖥️ LogicLens Interface
+### 📊 Data & Analytics
 
-Designed an interactive VS Code-inspired interface for an AI-powered code intelligence system, focusing on familiar navigation, structured layouts, and clear visualization of complex code relationships.
+`Python` `Pandas` `NumPy` `SQL` `EDA`  
+`Power BI` `Tableau` `Streamlit` `Data Visualization`
 
-**Tools:** Figma • HTML • CSS • UI/UX Design
+### 🗄️ Databases
 
----
+`PostgreSQL` `MySQL` `Neo4j` `ChromaDB` `pgvector`
 
-## 📱 UI/UX Design Work
+### 🎨 Design & UI/UX
 
-Exploring user-centered interface design through:
+`Figma` `Canva` `UI/UX Design` `Wireframing`  
+`Prototyping` `Visual Design` `Typography`  
+`Visual Hierarchy` `Dashboard Design` `Data Visualization`
 
-- Wireframing
-- High-fidelity prototyping
-- Dashboard design
-- Visual hierarchy
-- Typography and spacing
-- Navigation and interaction flows
-- Data visualization
-- Product interface design
+### 📱 Android
 
-More design projects and case studies will be added as they are completed.
+`Java` `Android Studio` `Firebase`  
+`Firebase Authentication` `Firebase Realtime Database`
 
----
+### 🌱 IoT & Embedded
 
-# 🤖 AI / ML Projects
+`ESP32` `IoT` `Sensors` `Wokwi` `Thinger.io`  
+`Embedded Systems` `Environmental Monitoring` `Automation`
 
-## 🛡️ Network Anomaly Detection — BEL Internship
+### 🔧 Tools
 
-Machine-learning based network traffic analysis and anomaly detection project developed during my internship at Bharat Electronics Limited.
-
-### Key Features
-
-- Network traffic analysis
-- Exploratory Data Analysis
-- Feature engineering and analysis
-- Machine-learning based anomaly detection
-- Model comparison and evaluation
-
-**Models:** Random Forest • Decision Tree • Logistic Regression
-
-**Dataset:** UNSW-NB15
-
----
-
-# 📱 Software & Mobile Projects
-
-## 📱 UniMingle — Campus Social Networking App
-
-A campus-focused Android social networking application designed to connect students and support campus activities.
-
-### Key Features
-
-- Firebase authentication
-- Student profiles
-- Real-time communication
-- Campus events
-- Social interaction features
-
-**Tech:** Java • Android Studio • Firebase
-
----
-
-# 🌱 IoT & Embedded Projects
-
-## 🌿 Smart Greenhouse Automation System
-
-An IoT-enabled smart greenhouse system designed to monitor environmental conditions and automate greenhouse operations.
-
-### Key Features
-
-- Temperature and humidity monitoring
-- Soil moisture monitoring
-- Light intensity monitoring
-- Automated pump, fan, and grow-light control
-- Cloud-connected monitoring dashboard
-- Manual control and monitoring through Thinger.io
-- ESP32-based system architecture
-
-**Tech:** ESP32 • DHT22 • Soil Moisture Sensor • LDR • Thinger.io • Wokwi • IoT • Embedded Systems
-
----
-
-## 🧴 Smart Disinfection System
-
-An IoT-based automated disinfection and environmental monitoring system designed for silkworm rearing sheds.
-
-### Key Features
-
-- Automated UV-C disinfection
-- Ultrasonic mist generation
-- Environmental monitoring
-- Sensor-based automation
-- ESP32 microcontroller integration
-
-**Tech:** ESP32 • IoT • Sensors • UV-C • Ultrasonic Mist • Embedded Systems
-
----
-
-# 📊 Data Analytics Projects
-
-## 🎵 K-Pop Playlist Analysis
-
-Data analysis project investigating chart performance, comeback momentum, chart re-entry, and fandom intensity using a large South Korean music dataset.
-
-**Tech:** Python • Pandas • NumPy • EDA • Streamlit • Data Visualization
-
----
-
-## 🏥 Care Transition & Placement Outcome Analytics
-
-Data-driven analysis of operational and placement-related data to identify patterns, bottlenecks, delays, and outcomes.
-
-### Key Work
-
-- Data cleaning and preprocessing
-- Exploratory Data Analysis
-- KPI development
-- Trend analysis
-- Interactive dashboard development
-- Identification of operational bottlenecks
-
-**Tech:** Python • Pandas • EDA • Streamlit • Data Visualization
-
----
-
-# 🏆 Achievements
-
-- **Smart India Hackathon 2024 Finalist** — developed an interactive game-based application promoting water conservation and responsible usage
-- **Deloitte Data Analytics Job Simulation** — applied Tableau and Excel for data analysis and dashboarding
+`Git` `GitHub` `Docker` `Postman` `VS Code` `Linux`
 
 ---
 
 # 💼 Experience
 
-## Intern — Bharat Electronics Limited (BEL)
+### Bharat Electronics Limited — AI/ML Intern
 
-- Worked on network intrusion and anomaly detection using machine-learning techniques
-- Analyzed the UNSW-NB15 network traffic dataset
+Worked on machine-learning based network traffic analysis and anomaly detection.
+
+- Analyzed the **UNSW-NB15** network traffic dataset
 - Performed exploratory data analysis and feature analysis
-- Explored Random Forest, Decision Tree, and Logistic Regression models
-- Evaluated model performance for network anomaly detection
+- Explored machine-learning approaches for network anomaly detection
+- Worked with Random Forest, Decision Tree, and Logistic Regression
+- Evaluated model performance and analytical results
 
 ---
 
-## Data Analyst Intern — Unified Mentor
+### Unified Mentor — Data Analyst Intern
 
-- Worked on real-world data analysis projects
-- Performed data cleaning and exploratory analysis
-- Used Python, Pandas, SQL, and visualization techniques
-- Developed interactive dashboards for analytical insights
+Worked on real-world data analysis and visualization projects.
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Python and Pandas-based analysis
+- SQL-based data analysis
+- Dashboard development
+- Data visualization and insight generation
+
+---
+
+# 🎨 Design & UI/UX
+
+I enjoy combining engineering with product and interface design.
+
+### Areas I explore
+
+- UI/UX Design
+- Wireframing
+- High-Fidelity Prototyping
+- Dashboard Design
+- Visual Hierarchy
+- Typography & Spacing
+- Interaction Design
+- Navigation Flows
+- Data Visualization
+- Product Interface Design
+
+---
+
+# 📱 Other Projects
+
+### 🛡️ Network Anomaly Detection
+
+Machine-learning based network intrusion and anomaly detection using the UNSW-NB15 dataset.
+
+**Models:** Random Forest • Decision Tree • Logistic Regression
+
+---
+
+### 📱 UniMingle — Campus Social Networking App
+
+Android-based campus social networking application featuring:
+
+- Firebase authentication
+- Student profiles
+- Real-time communication
+- Campus events
+- Social interaction
+
+**Tech:** Java • Android Studio • Firebase
+
+---
+
+### 🌿 Smart Greenhouse Automation
+
+IoT-enabled greenhouse monitoring and automation system.
+
+- Temperature & humidity monitoring
+- Soil moisture monitoring
+- Light intensity monitoring
+- Automated pump, fan, and grow-light control
+- Cloud-connected monitoring
+- ESP32-based architecture
+
+**Tech:** ESP32 • DHT22 • Soil Moisture Sensor • LDR • Thinger.io • Wokwi
+
+---
+
+### 🧴 Smart Disinfection System
+
+IoT-based automated environmental monitoring and disinfection system.
+
+- Automated UV-C disinfection
+- Ultrasonic mist generation
+- Environmental monitoring
+- Sensor-based automation
+- ESP32 integration
+
+---
+
+# 📊 Data Analytics Projects
+
+### 🎵 K-Pop Playlist Analysis
+
+Explored chart performance, comeback momentum, chart re-entry, and fandom-related patterns using a large South Korean music dataset.
+
+**Tech:** Python • Pandas • NumPy • EDA • Streamlit • Data Visualization
+
+---
+
+### 🏥 Care Transition & Placement Outcome Analytics
+
+Data-driven analysis focused on identifying patterns, bottlenecks, delays, and operational outcomes.
+
+**Work:** Data Cleaning • EDA • KPI Development • Trend Analysis • Dashboards
+
+---
+
+# 🏆 Achievements
+
+🏆 **Smart India Hackathon 2024 Finalist**  
+Developed an interactive game-based application promoting water conservation and responsible usage.
+
+📊 **Deloitte Data Analytics Job Simulation**  
+Applied Tableau and Excel for data analysis and dashboard development.
 
 ---
 
 # 🧠 Areas of Interest
 
-- Artificial Intelligence & Machine Learning
-- Generative AI & LLM Applications
-- Data Analytics & Visualization
-- Computer Vision
-- Speech & Audio Processing
-- UI/UX & Product Design
-- Full-Stack Development
-- IoT & Intelligent Systems
-
----
-
-# 📚 Currently Learning
-
-- Advanced SQL
-- Data Structures & Algorithms
-- Machine Learning
-- Data Analytics
-- React & Full-Stack Development
-- AI-powered application development
-- System Design fundamentals
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manyaagarwal23&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaagarwal23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=manyaagarwal23&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyaagarwal23&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manyaagarwal23&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building. Learning. Experimenting.
-
-Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=manyaagarwal23&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+```text
+Artificial Intelligence
+Generative AI & LLM Applications
+Machine Learning
+RAG & Vector Search
+AI Agents & Multi-Agent Systems
+Computer Vision
+Speech & Audio Processing
+Data Analytics
+Full-Stack Development
+UI/UX & Product Design
+Intelligent Systems
+IoT
