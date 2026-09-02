@@ -340,13 +340,7 @@ Applied data analysis, visualization, Tableau, and Excel-based analytical techni
 
 ---
 
-# 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=manyaagarwal23&theme=tokyonight&hide_border=true" alt="Manya's GitHub Streak"/>
-
-</div>
 
 ---
 
