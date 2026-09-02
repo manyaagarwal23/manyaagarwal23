@@ -2,7 +2,7 @@
 
 # Hi there, I'm Manya Agarwal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;AI%2FML+Enthusiast;Data+%26+Analytics+Explorer;Full-Stack+Developer;Building+Real-World+Tech+Projects;Exploring+AI+%26+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;AI%2FML+Enthusiast;UI%2FUX+%26+Design+Explorer;Data+%26+Analytics+Explorer;Full-Stack+Developer;Building+Real-World+Tech+Projects" alt="Typing SVG" />
 
 </div>
 
@@ -12,17 +12,21 @@
 
 🎓 B.Tech Computer Science & Engineering student at BML Munjal University (2023–2027)
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Data Analytics, and intelligent software systems
+🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, and intelligent software systems
 
-💻 Experienced in building projects using Python, SQL, React.js, Node.js, Firebase, and Machine Learning
+🎨 Interested in UI/UX design, visual communication, product interfaces, dashboards, and user-centered experiences
 
-🧠 Worked on AI-based code intelligence, multimodal communication assessment, computer vision, speech processing, and full-stack applications
+💻 Experienced in building applications using Python, SQL, React.js, Node.js, Firebase, and Machine Learning
 
-📊 Interested in transforming real-world datasets into meaningful insights using SQL, Python, EDA, dashboards, and data visualization
+🧠 Worked on AI-powered code intelligence, multimodal communication assessment, computer vision, speech processing, data analytics, and full-stack applications
 
-🏆 Smart India Hackathon 2024 Finalist — developed a working prototype under a 24-hour development challenge
+📊 Interested in transforming real-world datasets into meaningful insights using Python, SQL, EDA, dashboards, and data visualization
 
-🎯 Currently focused on strengthening my analytical  through real-world projects
+🏆 Smart India Hackathon 2024 Finalist — developed an interactive game-based application for water conservation
+
+🌱 Also exploring IoT, embedded systems, and cloud-connected intelligent applications
+
+🎯 Currently focused on building practical projects and strengthening my technical, analytical, and design skills
 
 ---
 
@@ -45,77 +49,81 @@
 </p>
 
 ---
-## 🛠️ Tech Stack
 
-<div align="center">
+# 🛠️ Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+### 🎨 Design & UI/UX
 
-`Python` • `C++` • `HTML` • `CSS` • `SQL`
+`Figma` • `Canva` • `UI/UX Design` • `Wireframing` • `Prototyping`  
+`Visual Design` • `Typography` • `Visual Hierarchy` • `Data Visualization`
 
-### AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+### 🤖 AI / Machine Learning
 
-`Machine Learning` • `Deep Learning` • `Scikit-learn` • `TensorFlow` • `Keras`  
-`Wav2Vec 2.0` • `Computer Vision` • `OpenCV` • `CrewAI` • `Groq`
+`Python` • `Machine Learning` • `Deep Learning` • `Scikit-learn`  
+`TensorFlow` • `Keras` • `OpenCV` • `Hugging Face`  
+`Computer Vision` • `Speech Processing` • `Wav2Vec 2.0`  
+`LLMs` • `RAG` • `Embeddings` • `CrewAI` • `Groq`
 
-### Data & Analytics
+### 📊 Data & Analytics
 
 `Pandas` • `NumPy` • `SQL` • `EDA` • `Data Analysis`  
-`Streamlit` • `Power BI` • `Data Visualization`
+`Power BI` • `Tableau` • `Streamlit` • `Data Visualization`
 
-### Web & Full-Stack Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+### 💻 Web & Full-Stack Development
 
-`React.js` • `Node.js` • `Express.js` • `REST APIs`  
-`JavaScript` • `Vite` • `Tailwind CSS` • `Axios`
+`React.js` • `JavaScript` • `Node.js` • `Express.js`  
+`HTML` • `CSS` • `REST APIs` • `Tailwind CSS`  
+`Vite` • `Axios`
 
-### Android Development
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+### 📱 Android Development
 
-`Android Studio` • `Java` • `Firebase`  
+`Java` • `Android Studio` • `Firebase`  
 `Firebase Authentication` • `Firebase Realtime Database`
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+### 🗄️ Databases
 
-`PostgreSQL` • `MySQL` • `SQL` • `Neo4j` • `ChromaDB`
+`PostgreSQL` • `MySQL` • `Neo4j` • `ChromaDB`
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,docker,linux" />
+### 🌱 IoT & Embedded Systems
 
-`Git` • `GitHub` • `Figma` • `Postman` • `VS Code`
+`ESP32` • `IoT` • `Sensors` • `Wokwi` • `Thinger.io`  
+`Embedded Systems` • `Environmental Monitoring` • `Automation`
 
-</div>
+### 🔧 Tools
 
-## 🚀 Featured Projects
+`Git` • `GitHub` • `Figma` • `Postman` • `VS Code` • `Docker` • `Linux`
 
-### 🧠 LogicLens — AI Code Intelligence System
+---
+
+# 🚀 Featured Projects
+
+## 🧠 LogicLens — AI Code Intelligence System
 
 An AI-powered repository intelligence system designed to help developers understand complex software codebases.
 
-**Key Features:**
+### Key Features
+
 - Parses source code using Tree-sitter and Abstract Syntax Trees
 - Builds code relationships and dependencies using Neo4j
 - Uses ChromaDB for semantic/vector search
 - Generates embeddings for intelligent code retrieval
 - Uses LLM-based analysis to answer repository-level questions
-- Helps developers understand functions, dependencies, and code relationships
+- Supports dependency visualization, impact analysis, Git hotspot detection, and vulnerability identification
 
 **Tech:** Python • Tree-sitter • AST • Neo4j • ChromaDB • Embeddings • LLMs • Groq • CrewAI
 
 ---
 
-### 🎤 PersonaPath — Multimodal Communication Assessment System
+## 🎤 PersonaPath — Multimodal Communication Assessment System
 
 An AI-based system designed to analyze communication and interview performance using speech, audio, and visual information.
 
-**Key Features:**
+### Key Features
+
 - Speech-to-text processing using Wav2Vec 2.0
 - Audio feature extraction using MFCC
 - Sequence modeling using LSTM
-- Facial/emotion analysis using CNN and MobileNetV2
+- Facial and emotion analysis using CNN and MobileNetV2
 - Video and image processing using OpenCV
 - Combines multiple modalities to generate communication insights
 - Provides assessment results through a dashboard
@@ -124,11 +132,12 @@ An AI-based system designed to analyze communication and interview performance u
 
 ---
 
-### 📊 Student Placement Management Platform
+## 📊 Student Placement Management Platform
 
 A full-stack placement management system connecting students, companies, jobs, applications, interviews, offers, and skills.
 
-**Key Features:**
+### Key Features
+
 - Student and company management
 - Job posting and application tracking
 - Interview and offer management
@@ -141,11 +150,77 @@ A full-stack placement management system connecting students, companies, jobs, a
 
 ---
 
-### 📱 UniMingle — Campus Social Networking App
+## 🏡 Estate Management Platform
 
-A campus-focused Android social networking application designed to connect students and manage campus activities.
+A high-fidelity UI/UX prototype designed to simplify property and estate management through structured interfaces and intuitive user flows.
 
-**Key Features:**
+### Key Features
+
+- High-fidelity interface design
+- Scrollable multi-screen prototype
+- Structured property information
+- Intuitive navigation and interaction flows
+- Consistent visual hierarchy and design system
+
+**Tools:** Figma • Human-Computer Interaction
+
+---
+
+# 🎨 UI/UX & Design Projects
+
+## 🖥️ LogicLens Interface
+
+Designed an interactive VS Code-inspired interface for an AI-powered code intelligence system, focusing on familiar navigation, structured layouts, and clear visualization of complex code relationships.
+
+**Tools:** Figma • HTML • CSS • UI/UX Design
+
+---
+
+## 📱 UI/UX Design Work
+
+Exploring user-centered interface design through:
+
+- Wireframing
+- High-fidelity prototyping
+- Dashboard design
+- Visual hierarchy
+- Typography and spacing
+- Navigation and interaction flows
+- Data visualization
+- Product interface design
+
+More design projects and case studies will be added as they are completed.
+
+---
+
+# 🤖 AI / ML Projects
+
+## 🛡️ Network Anomaly Detection — BEL Internship
+
+Machine-learning based network traffic analysis and anomaly detection project developed during my internship at Bharat Electronics Limited.
+
+### Key Features
+
+- Network traffic analysis
+- Exploratory Data Analysis
+- Feature engineering and analysis
+- Machine-learning based anomaly detection
+- Model comparison and evaluation
+
+**Models:** Random Forest • Decision Tree • Logistic Regression
+
+**Dataset:** UNSW-NB15
+
+---
+
+# 📱 Software & Mobile Projects
+
+## 📱 UniMingle — Campus Social Networking App
+
+A campus-focused Android social networking application designed to connect students and support campus activities.
+
+### Key Features
+
 - Firebase authentication
 - Student profiles
 - Real-time communication
@@ -156,11 +231,32 @@ A campus-focused Android social networking application designed to connect stude
 
 ---
 
-### 🌿 Smart Disinfection System
+# 🌱 IoT & Embedded Projects
+
+## 🌿 Smart Greenhouse Automation System
+
+An IoT-enabled smart greenhouse system designed to monitor environmental conditions and automate greenhouse operations.
+
+### Key Features
+
+- Temperature and humidity monitoring
+- Soil moisture monitoring
+- Light intensity monitoring
+- Automated pump, fan, and grow-light control
+- Cloud-connected monitoring dashboard
+- Manual control and monitoring through Thinger.io
+- ESP32-based system architecture
+
+**Tech:** ESP32 • DHT22 • Soil Moisture Sensor • LDR • Thinger.io • Wokwi • IoT • Embedded Systems
+
+---
+
+## 🧴 Smart Disinfection System
 
 An IoT-based automated disinfection and environmental monitoring system designed for silkworm rearing sheds.
 
-**Key Features:**
+### Key Features
+
 - Automated UV-C disinfection
 - Ultrasonic mist generation
 - Environmental monitoring
@@ -171,26 +267,9 @@ An IoT-based automated disinfection and environmental monitoring system designed
 
 ---
 
-### 🛡️ Network Anomaly Detection — BEL Internship
+# 📊 Data Analytics Projects
 
-Machine-learning based network traffic analysis and intrusion/anomaly detection project developed during my internship at Bharat Electronics Limited.
-
-**Key Features:**
-- Network traffic analysis
-- Exploratory Data Analysis
-- Feature analysis
-- Machine-learning based anomaly detection
-- Model comparison and evaluation
-
-**Models Explored:** Random Forest • Decision Tree • Logistic Regression
-
-**Dataset:** UNSW-NB15
-
----
-
-## 📊 Data Analytics Projects
-
-### 🎵 K-Pop Playlist Analysis
+## 🎵 K-Pop Playlist Analysis
 
 Data analysis project investigating chart performance, comeback momentum, chart re-entry, and fandom intensity using a large South Korean music dataset.
 
@@ -198,11 +277,12 @@ Data analysis project investigating chart performance, comeback momentum, chart 
 
 ---
 
-### 🏥 Care Transition & Placement Outcome Analytics
+## 🏥 Care Transition & Placement Outcome Analytics
 
-Data-driven analysis of the care transition pipeline to identify operational bottlenecks, discharge patterns, delays, and placement outcomes.
+Data-driven analysis of operational and placement-related data to identify patterns, bottlenecks, delays, and outcomes.
 
-**Key Work:**
+### Key Work
+
 - Data cleaning and preprocessing
 - Exploratory Data Analysis
 - KPI development
@@ -214,11 +294,16 @@ Data-driven analysis of the care transition pipeline to identify operational bot
 
 ---
 
-## 💼 Experience
+# 🏆 Achievements
 
-### Intern — Bharat Electronics Limited (BEL)
+- **Smart India Hackathon 2024 Finalist** — developed an interactive game-based application promoting water conservation and responsible usage
+- **Deloitte Data Analytics Job Simulation** — applied Tableau and Excel for data analysis and dashboarding
 
-📍 India
+---
+
+# 💼 Experience
+
+## Intern — Bharat Electronics Limited (BEL)
 
 - Worked on network intrusion and anomaly detection using machine-learning techniques
 - Analyzed the UNSW-NB15 network traffic dataset
@@ -228,45 +313,41 @@ Data-driven analysis of the care transition pipeline to identify operational bot
 
 ---
 
-### Data Analyst Intern  — Unified Mentor
-
-📊 Data Analytics
+## Data Analyst Intern — Unified Mentor
 
 - Worked on real-world data analysis projects
 - Performed data cleaning and exploratory analysis
 - Used Python, Pandas, SQL, and visualization techniques
 - Developed interactive dashboards for analytical insights
-- Worked on projects involving music analytics and operational/placement data
 
 ---
 
-## 🧠 Areas of Interest
+# 🧠 Areas of Interest
 
 - Artificial Intelligence & Machine Learning
-- Data Analytics
-- SQL & Data Visualization
+- Generative AI & LLM Applications
+- Data Analytics & Visualization
 - Computer Vision
 - Speech & Audio Processing
-- Full-Stack Development
-- AI-powered Applications
-- Intelligent Software Systems
 - UI/UX & Product Design
+- Full-Stack Development
+- IoT & Intelligent Systems
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - Advanced SQL
 - Data Structures & Algorithms
-- Data Analytics
 - Machine Learning
+- Data Analytics
 - React & Full-Stack Development
 - AI-powered application development
 - System Design fundamentals
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -278,7 +359,7 @@ Data-driven analysis of the care transition pipeline to identify operational bot
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -288,7 +369,7 @@ Data-driven analysis of the care transition pipeline to identify operational bot
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -298,7 +379,7 @@ Data-driven analysis of the care transition pipeline to identify operational bot
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
